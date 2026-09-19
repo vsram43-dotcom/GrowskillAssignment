@@ -1,0 +1,12 @@
+Access details to demo site. https://demo.guru99.com/V4/manager/addcustomerpage.php
+
+User ID :	mngr666618
+Password :	ydYregu
+
+1. Navigate to https://demo.guru99.com/V4/index.php 
+
+and write below test cases
+
+a. Validate Login Functionality 
+b. Validate creation of new Customer 
+
